@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="enhance_list_empty_data">没有数据可显示</string>
+    <string name="enhance_list_header_pull_text">下拉可以刷新</string>
+    <string name="enhance_list_header_release_text">松开可以刷新</string>
+    <string name="enhance_list_header_refreshing_text">刷新中…</string>
+    <string name="enhance_list_header_refresh_success_text">刷新成功</string>
+    <string name="enhance_list_footer_more_text">更多</string>
+    <string name="enhance_list_footer_loading_text">加载中…</string>
+    <string name="enhance_list_footer_no_more_text">没有更多了</string>
+
+</resources>
