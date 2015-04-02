@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="enhance_list_empty_data">No data to display</string>
+    <string name="enhance_list_header_pull_text">Drop Down to refresh</string>
+    <string name="enhance_list_header_release_text">Release to refresh</string>
+    <string name="enhance_list_header_refreshing_text">Refresh…</string>
+    <string name="enhance_list_header_refresh_success_text">Refresh success</string>
+    <string name="enhance_list_footer_more_text">More</string>
+    <string name="enhance_list_footer_loading_text">Loading…</string>
+    <string name="enhance_list_footer_no_more_text">No more</string>
+
+</resources>
